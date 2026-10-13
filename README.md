@@ -4,7 +4,10 @@
 
 Building partner-facing APIs and SQL Server workflows for enterprise platforms. Currently a Senior Software Engineer at **Capgemini** on **Sony**’s warranty and service-order platform (~1 YOE). Open to backend / software engineering roles.
 
-[LinkedIn](https://www.linkedin.com/in/vagish-sharma-531132283/) · [Email](mailto:vagishsharma1234@gmail.com) · Resume available on request (`vagishsharma1234@gmail.com`)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vagish--sharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagish-sharma-531132283/)
+[![Email](https://img.shields.io/badge/email-vagishsharma1234%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vagishsharma1234@gmail.com)
+
+Resume available on request — email above.
 
 ---
 
