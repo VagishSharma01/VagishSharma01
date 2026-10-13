@@ -4,7 +4,7 @@
 
 **Backend Software Engineer** · C# / .NET · SQL Server · Azure · REST APIs
 
-Senior Software Engineer at **Capgemini** on **Sony**’s warranty & service-order platform · ~1 YOE  
+Backend engineer · ~1 YOE building APIs & SQL for enterprise service-order platforms  
 Open to backend / software engineering roles
 
 <br/>
@@ -101,8 +101,8 @@ React · Angular · Git · Postman · Swagger · SonarQube
 
 ### Experience & portfolio
 
-**Capgemini / Sony — Warranty & service-order platform**  
-Partner RPOC/RPSI REST APIs · SQL Server optimization (~30% latency) · 50+ backend/integration defects resolved
+**Enterprise warranty & service-order platform**  
+Partner-facing REST APIs (Create / Patch / Get) · SQL Server optimization (~30% latency) · 50+ backend/integration defects resolved
 
 **Flight Booking System** — .NET Core · ASP.NET Web API · SQL Server · React · JWT  
 Booking backend with search/booking/admin APIs, JWT + RBAC, SQL tuning for availability
