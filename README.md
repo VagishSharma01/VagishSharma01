@@ -9,6 +9,7 @@ Open to backend / software engineering roles
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-5EEAD4?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/VagishSharma01/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagish-sharma-531132283/)
 [![Email](https://img.shields.io/badge/Email-vagishsharma1234%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagishsharma1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-VagishSharma01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VagishSharma01)
